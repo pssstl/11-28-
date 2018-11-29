@@ -55,15 +55,15 @@ Depression
 
 
 ## Management for Anxiety/Depression in COPD
-- Pharmacological Interventions  
+- Pharmacological interventions  
 <br />
-- Non-pharmacological Managements  
+- Non-pharmacological managements  
 
-\vspace{12pt}- Cognitive Behavior Therapy     
-\vspace{12pt}- Group Psychotherapy    
-\vspace{12pt}- Relaxation Therapy and Alternative Treatments    
-\vspace{12pt}- Pulmonary Rehabilitation    
-\vspace{12pt}- Smoking Cessation  
+\vspace{12pt}- Cognitive behavior therapy     
+\vspace{12pt}- Group psychotherapy    
+\vspace{12pt}- Relaxation therapy and alternative treatments    
+\vspace{12pt}- Pulmonary rehabilitation    
+\vspace{12pt}- Smoking cessation  
   
 ## Future Needs
 - Early referral & accurate diagnosis
