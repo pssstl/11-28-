@@ -1,0 +1,71 @@
+---
+title: "Chronic Obstructive Pulmonary Disease and Its Associated Psychological Effects"
+author: "Ting-fen Lin"
+date: "11/29/2018"
+output: slidy_presentation
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Chronic Obstructive Pulmonary Disease (COPD)
+
+COPD is a life-threatening lung disease, characterized by chronically obstructed airflow in the lungs
+
+- Currently 4th-leading cause of death in the United States
+- Projected to be the 3rd-leading cause of death and among the top ten causes of disease burden by 2030
+
+
+## Risk Factor
+- Tobacco smoking  
+- Indoor and outdoor air pollutants  
+- Occupational dusts/chemicals   
+- Genetics
+
+
+## Physiological Symptoms
+- Increased effort to breathe
+- Chronic cough
+- Sputum production
+- Wheezing 
+- Chest tightness
+- Fatigue
+
+## Psychological Issues
+- Dyspnea - Anxiety/Depression - Dyspnea 
+- Undertreated & underdiagnosed  
+
+
+
+## Prevalence 
+Prevalence of anxiety and depression in COPD vary widely due to the degree of disease severity and the use of measurement tools across studies  
+<br />
+
+Anxiety  
+
+- 13% to 46% in outpatients    
+- 10% to 55% among inpatients
+
+<br />
+Depression  
+
+- 10% to 42% in stable condition    
+- 10% to 86% in patients with acute COPD exacerbation
+
+
+## Management for Anxiety/Depression in COPD
+- Pharmacological Interventions  
+<br />
+- Non-pharmacological Managements  
+
+\vspace{12pt}- Cognitive Behavior Therapy     
+\vspace{12pt}- Group Psychotherapy    
+\vspace{12pt}- Relaxation Therapy and Alternative Treatments    
+\vspace{12pt}- Pulmonary Rehabilitation    
+\vspace{12pt}- Smoking Cessation  
+  
+## Future Needs
+- Early referral & accurate diagnosis
+- Screening tools
+- More research & resources on management 
